@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ssd_d\\lbvr_project\\xtd4\\xversestudio\\plugins\\s_splatoondemodev\\source\\s_splatoondemodev\\private\\s_splatoondemodev.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ssd_d\\lbvr_project\\xtd4\\xversestudio\\intermediate\\build\\win64\\x64\\xversevr_oculuseditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "c:\\ssd_d\\lbvr_project\\xtd4\\xversestudio\\plugins\\s_splatoondemodev\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\s_splatoondemodev\\definitions.s_splatoondemodev.h",
+            "c:\\ssd_d\\lbvr_project\\xtd4\\xversestudio\\plugins\\s_splatoondemodev\\source\\s_splatoondemodev\\public\\s_splatoondemodev.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

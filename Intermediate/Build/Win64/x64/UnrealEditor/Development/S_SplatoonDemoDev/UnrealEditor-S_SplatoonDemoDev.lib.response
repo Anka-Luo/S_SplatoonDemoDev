@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-S_SplatoonDemoDev.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\SSD_D\LBVR_Project\XTD4\XVerseStudio\Intermediate\Build\Win64\x64\XVerseVR_OculusEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\SSD_D\LBVR_Project\XTD4\XVerseStudio\Plugins\S_SplatoonDemoDev\Intermediate\Build\Win64\x64\UnrealEditor\Development\S_SplatoonDemoDev\S_SplatoonDemoDev.cpp.obj"
+"C:\SSD_D\LBVR_Project\XTD4\XVerseStudio\Plugins\S_SplatoonDemoDev\Intermediate\Build\Win64\x64\UnrealEditor\Development\S_SplatoonDemoDev\Default.rc2.res"
+/OUT:"C:\SSD_D\LBVR_Project\XTD4\XVerseStudio\Plugins\S_SplatoonDemoDev\Intermediate\Build\Win64\x64\UnrealEditor\Development\S_SplatoonDemoDev\UnrealEditor-S_SplatoonDemoDev.lib"
